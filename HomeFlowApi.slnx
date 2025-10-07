@@ -1,0 +1,14 @@
+<Solution>
+  <Folder Name="/1-API/">
+    <Project Path="1-API/HomeFlowApi.API/HomeFlowApi.API.csproj" />
+  </Folder>
+  <Folder Name="/2-Application/">
+    <Project Path="2-Application/HomeFlowApi.Application/HomeFlowApi.Application.csproj" />
+  </Folder>
+  <Folder Name="/3-Core/">
+    <Project Path="3-Core/HomeFlowApi.Core/HomeFlowApi.Core.csproj" />
+  </Folder>
+  <Folder Name="/4-Infrastructure/">
+    <Project Path="4-Infrastructure/HomeFlowApi.Infrastructure/HomeFlowApi.Infrastructure.csproj" />
+  </Folder>
+</Solution>
