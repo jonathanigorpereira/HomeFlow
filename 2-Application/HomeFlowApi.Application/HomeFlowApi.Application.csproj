@@ -6,4 +6,8 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="../../3-Core/HomeFlowApi.Core/HomeFlowApi.Core.csproj" />
+  </ItemGroup>
+
 </Project>

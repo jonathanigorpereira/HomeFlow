@@ -8,6 +8,12 @@
 
   <ItemGroup>
     <PackageReference Include="Microsoft.AspNetCore.OpenApi" Version="9.0.9" />
+    <PackageReference Include="Swashbuckle.AspNetCore" Version="6.6.2" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="../../2-Application/HomeFlowApi.Application/HomeFlowApi.Application.csproj" />
+    <ProjectReference Include="../../4-Infrastructure/HomeFlowApi.Infrastructure/HomeFlowApi.Infrastructure.csproj" />
   </ItemGroup>
 
 </Project>
